@@ -1,6 +1,6 @@
 # Bienvenue sur le Hub de Jeu - Site Web
 
-Bienvenue sur le site web de notre organisation de développement de jeux ! Nous sommes une petite équipe passionnée de développeurs de jeux, composée de [Klaynight](https://github.com/Klaynight), [Funasitien](https://github.com/Funasitien), [Touix22](https://github.com/Touix22) et [Benkuro](https://github.com/Benkuro). Notre site web propose une variété d'applications ludiques pour divertir et informer nos visiteurs. Découvrez nos jeux et notre application météo en temps réel !
+Bienvenue sur le site web de notre organisation de développement de jeux ! Nous sommes une petite équipe passionnée de développeurs de jeux, composée de [Klaynight](https://github.com/Klaynight-dev), [Funasitien](https://github.com/Funasitien), [Touix22](https://github.com/Touix222) et [Benkuro](https://github.com/Benkuro11). Notre site web propose une variété d'applications ludiques pour divertir et informer nos visiteurs. Découvrez nos jeux et notre application météo en temps réel !
 
 ## Accédez à notre Site Web
 
